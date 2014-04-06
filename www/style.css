@@ -71,12 +71,12 @@ table {
  }
  
  
-#shapka { width:100%; height:190px;  background-image:url(images/sepia.jpg);}
+#shapka { width:100%; height:170px;  background-image:url(images/sepia.jpg);}
 #shapka img { margin:30px auto;}
 
 #content { margin:40px auto;  text-align:center;}
 
-#button {background-image:url(images/sepia.jpg); height:49px; width:325px; border:2px solid #bebeb5; margin:30px auto; color:#fff; font-family: 'AgoraNorm'; font-size:24px; line-height:50px; }
+#button {background-image:url(images/sepia.jpg); height:49px; width:225px; border:2px solid #bebeb5; margin:30px auto; color:#fff; font-family: 'AgoraNorm'; font-size:20px; line-height:50px; }
 #bottom {font-family: 'AgoraNorm'; font-size:14px; width:100%; height:100px;  background-image:url(images/sepia.jpg);  color:#fff; line-height:20px; padding-bottom:5px;}
 
 
