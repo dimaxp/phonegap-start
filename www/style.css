@@ -81,6 +81,6 @@ table {
 
 #mini_shapka { height:70px; width:100%; background-image:url(images/sepia.jpg); margin:0 auto;}
 #bar { width:400px; margin:0px auto; height:100%;}
-#bar img { float:left; margin-left:37px; margin-top:15px;}
+#bar img { float:left; margin-left:20px; margin-top:15px;}
 h2 {font-family: 'AgoraNorm'; color:#535252; font-size:26px;}
 @font-face {font-family: 'AgoraNorm'; src: url('AgoraNorm.ttf'); format('svg'); font-weight: normal;font-style: normal;}
